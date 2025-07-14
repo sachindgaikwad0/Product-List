@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.codebook</groupId>
-	<artifactId>Product-List</artifactId>
+	<artifactId>Product</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>Product-List</name>
+	<name>Product</name>
 	<description>Demo project for Spring Boot Application Info</description>
 	<url/>
 	<licenses>
